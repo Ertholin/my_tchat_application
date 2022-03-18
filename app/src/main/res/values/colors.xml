@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#075e54</color>
+    <color name="colorPrimaryDark">#054d44</color>
+    <color name="colorAccent">#e1ffc7</color>
+    <color name="colorSecondaryLight">#fffffa</color>
+    <color name="colorSecondaryDark">#afcc96</color>
+
+    <color name="colorGrey1">#ffc7c7c7</color>
+    <color name="colorGrey2">#b5b5b5</color>
+    <color name="colorGrey3">#ffefefef</color>
+    <color name="emoji_grey">#8e8e8e</color>
+
+    <color name="msg_activity_background">#efebe7</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <color name="transparent">#00000000</color>
+</resources>

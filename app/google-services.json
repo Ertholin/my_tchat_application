@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "674072726030",
+    "project_id": "androidtchat",
+    "storage_bucket": "androidtchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674072726030:android:873d98c5b9420c95980a5f",
+        "android_client_info": {
+          "package_name": "ca.uqtr.mytchatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674072726030-ptq1hsbf2ida4mvbk6iinib1rev90ftt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsU-QEmJRFH_k2wybdIGS0olpTN9TMhUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674072726030-ptq1hsbf2ida4mvbk6iinib1rev90ftt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

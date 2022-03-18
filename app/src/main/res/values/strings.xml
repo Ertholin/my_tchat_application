@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Tchat Application</string>
+    <string name="google_connexion">Se Connecter avec Google</string>
+    <string name="taperMsg">Taper message</string>
+    <string name="profil">Profil</string>
+    <string name="aucun_message">Aucun message n\'a été envoyé pour le moment.</string>
+    <string name="annulation_connexion">Vous avez annulé la création de votre compte.</string>
+    <string name="pas_de_connexion_internet">Vous n\'êtes pas connecté à Internet.</string>
+    <string name="ChargementEnCours">Chargement en cours&#8230;</string>
+    <string name="charger_photo_profil">Charger une photo de profil.</string>
+    <string name="permission_non_accordee">Permission refusée. Impossible d\'accéder aux images.</string>
+    <string name="aucune_image_choisie">Aucune image n\'a été sélectionnée.</string>
+    <string name="erreur_survenue">Une erreur est survenue.</string>
+    <string name="pp_mise_a_jour">Photo de profil mise à jour.</string>
+</resources>
