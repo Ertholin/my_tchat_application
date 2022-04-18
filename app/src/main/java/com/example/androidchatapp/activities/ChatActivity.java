@@ -1,16 +1,13 @@
 package com.example.androidchatapp.activities;
 
-import androidx.appcompat.app.AppCompatActivity;
 
 import android.annotation.SuppressLint;
-import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.os.Bundle;
 import android.util.Base64;
 import android.view.View;
 
-import com.example.androidchatapp.R;
 import com.example.androidchatapp.adapters.ChatAdapter;
 import com.example.androidchatapp.databinding.ActivityChatBinding;
 import com.example.androidchatapp.models.ChatMessage;
@@ -27,14 +24,13 @@ import com.google.firebase.firestore.QuerySnapshot;
 
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 import java.util.Date;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Locale;
 
-public class ChatActivity extends AppCompatActivity {
+public class ChatActivity extends BaseActivity {
 
     private ActivityChatBinding binding;
     private User receiverUser;
