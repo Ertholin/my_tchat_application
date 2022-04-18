@@ -1,5 +1,6 @@
 package com.example.androidchatapp.activities;
 
+import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
@@ -75,7 +76,7 @@ public class UsersActivity extends AppCompatActivity {
         binding.textErrorMessage.setVisibility(View.VISIBLE);
     }
 
-    private void loading(Boolean isLoading){
+    private void loading(@NonNull Boolean isLoading){
         if(isLoading){
             binding.progressBar.setVisibility(View.VISIBLE);
         }else{
